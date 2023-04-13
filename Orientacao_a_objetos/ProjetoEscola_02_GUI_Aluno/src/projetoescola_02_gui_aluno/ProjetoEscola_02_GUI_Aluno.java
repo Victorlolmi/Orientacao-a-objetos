@@ -15,9 +15,6 @@ public class ProjetoEscola_02_GUI_Aluno {
 
     public static void main(String[] args) {     
         
-//        Disciplina aeds1 = new Disciplina();
-//        aeds1.preencher();
-        
         FrAluno tela = new FrAluno();
         tela.setVisible(true);
         
